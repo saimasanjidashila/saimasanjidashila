@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### 📂 Highlighted Repos:
+### 📂 Highlighted Repo's:
 
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=QSum-using-Llama&theme=dark" />
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 
-### Most Used Languages
+### My Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasanjidashila&layout=compact&theme=dark&hide_border=false&title_color=FF6AC1&text_color=FFFFFF)
 
