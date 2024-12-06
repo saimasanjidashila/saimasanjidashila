@@ -19,15 +19,16 @@
 
 ### 📂 Highlighted Repos:
 
-<a href="https://github.com/saimasanjidashila/QSum-using-Llama.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project1&theme=dark" />
+<a href="https://github.com/saimasanjidashila/QSum-using-Llama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=QSum-using-Llama&theme=dark" />
 </a>
-<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project2&theme=dark" />
+<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Food-Delivery-React-Project&theme=dark" />
 </a>
-<a href="https://github.com/saimasanjidashila/SaimaSanjidaShila_Website.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project3&theme=dark" />
+<a href="https://github.com/saimasanjidashila/SaimaSanjidaShila_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=SaimaSanjidaShila_Website&theme=dark" />
 </a>
+
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
