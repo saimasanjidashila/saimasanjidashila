@@ -1,4 +1,15 @@
 ## Hi there 👋
+
+<!--
+**saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Weather Forecasting on real-time Predictions Using Deep Learning Models
+- 🌱 I’m currently learning AI, ML.
+- 📫 How to reach me: sshila1@lsu.edu
+- ⚡ Fun fact: I like hiking and going for long walks.
+-->
 ### 🌐 Get to Know Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/))
 ### 💻 Technical Skills:
@@ -34,17 +45,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasanjidashila&layout=compact&theme=dark&hide_border=false&title_color=FF6AC1&text_color=FFFFFF)
 
-<!--
-**saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
