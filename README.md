@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Saima Sanjida Shila, a passionate developer and researcher working on cutting-edge projects in Weather Forecasting and Deep Learning. I thrive on learning new technologies and solving real-world problems with AI and ML. 🌟
+**I'm Saima Sanjida Shila, a passionate developer and researcher working on cutting-edge projects in Weather Forecasting and Deep Learning. I thrive on learning new technologies and solving real-world problems with AI and ML. 🌟**
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sshila1@lsu.edu
 - ⚡ Fun fact: I like hiking and going for long walks.
 -->
-### 🌐 Get to Know Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/))
+
+### 📬 How to Reach Me
+- 📧 Email: [sshila1@lsu.edu](mailto:sshila1@lsu.edu)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/) 
+
 ### 💻 Technical Skills:
 ![Java](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,4 +49,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasanjidashila&layout=compact&theme=dark&hide_border=false&title_color=FF6AC1&text_color=FFFFFF)
 
+### 🌱 What I'm Learning
+- 🌐 **Advanced AI and ML techniques.**
+- 🧠 **Data Science and Deep Learning frameworks.**
+
+---
 
