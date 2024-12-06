@@ -19,7 +19,7 @@
 
 ### 📂 Highlighted Repos:
 
-<a href="https://github.com/saimasanjidashila/QSum-using-Llama">
+<a href="https://github.com/saimasanjidashila/QSum-using-Llama.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=dark" />
 </a>
 <a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project">
