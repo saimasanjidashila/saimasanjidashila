@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm Saima Sanjida Shila, a passionate developer and researcher working on cutting-edge projects in Weather Forecasting and Deep Learning. I thrive on learning new technologies and solving real-world problems with AI and ML. 🌟**
+**I'm Saima Sanjida Shila, a passionate developer working on cutting-edge projects in Weather Forecasting and Deep Learning. I thrive on learning new technologies and solving real-world problems with AI and ML. 🌟**
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🌱 What I'm Learning
 - 🌐 **Advanced AI and ML techniques.**
-- 🧠 **Data Science and Deep Learning frameworks.**
+- 🧠 **HCI, Computer Vision, Deep Learning frameworks.**
 
 ---
 ### 💻 Technical Skills:
