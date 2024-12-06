@@ -13,6 +13,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
