@@ -17,11 +17,17 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saimasanjidashila&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+### 📂 Highlighted Repos:
 
-### 📂 Top Contributed Repositories:
-- [QSum-using-Llama](https://github.com/saimasanjidashila/QSum-using-Llama)
-- [Food Delivery React Project](https://github.com/saimasanjidashila/Food-Delivery-React-Project)
-- [Saima Sanjida Shila](https://github.com/saimasanjidashila/SaimaSanjidaShila_Website)
+<a href="https://github.com/saimasanjidashila/QSum-using-Llama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=dark" />
+</a>
+<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=dark" />
+</a>
+<a href="https://github.com/saimasanjidashila/SaimaSanjidaShila_Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project3&theme=dark" />
+</a>
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
