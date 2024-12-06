@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saimasanjidashila&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ### 📂 Highlighted Repos:
 
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama">
@@ -54,5 +51,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasanjidashila&layout=compact&theme=dark&hide_border=false&title_color=FF6AC1&text_color=FFFFFF)
 
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saimasanjidashila&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
