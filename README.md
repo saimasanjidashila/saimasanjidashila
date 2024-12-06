@@ -19,9 +19,9 @@
 
 
 ### 📂 Top Contributed Repositories:
-- [QSum-using-Llama](https://github.com/saimasanjidashila/QSum-using-Llama))
-- [Food Delivery React Project](https://github.com/saimasanjidashila/Food-Delivery-React-Project))
-- [Saima Sanjida Shila](https://github.com/saimasanjidashila/SaimaSanjidaShila_Website))
+- [QSum-using-Llama](https://github.com/saimasanjidashila/QSum-using-Llama)
+- [Food Delivery React Project](https://github.com/saimasanjidashila/Food-Delivery-React-Project)
+- [Saima Sanjida Shila](https://github.com/saimasanjidashila/SaimaSanjidaShila_Website)
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
