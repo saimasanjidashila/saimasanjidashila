@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 🌱 What I'm Learning
 - 🌐 **Advanced AI and ML techniques.**
 - 🧠 **HCI, Computer Vision, Deep Learning frameworks.**
+- - 🌐 **Always eager to learn new technologies.**
 
 ---
 ### 💻 Technical Skills:
