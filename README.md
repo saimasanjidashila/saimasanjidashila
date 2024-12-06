@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 
 ### 📬 How to Reach Me
 - 📧 Email: [sshila1@lsu.edu](mailto:sshila1@lsu.edu)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/) 
+- 💼 LinkedIn: [Saima Sanjida Shila](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/) 
 
+### 🌱 What I'm Learning
+- 🌐 **Advanced AI and ML techniques.**
+- 🧠 **Data Science and Deep Learning frameworks.**
+
+---
 ### 💻 Technical Skills:
 ![Java](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,9 +54,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasanjidashila&layout=compact&theme=dark&hide_border=false&title_color=FF6AC1&text_color=FFFFFF)
 
-### 🌱 What I'm Learning
-- 🌐 **Advanced AI and ML techniques.**
-- 🧠 **Data Science and Deep Learning frameworks.**
 
----
 
