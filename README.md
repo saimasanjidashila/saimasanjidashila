@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🌐 Socials:
+### 🌐 Get to Know Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/))
 
 <!--
