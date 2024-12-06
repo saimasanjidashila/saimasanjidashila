@@ -20,13 +20,13 @@
 ### 📂 Highlighted Repos:
 
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project1&theme=dark" />
 </a>
-<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=dark" />
+<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project2&theme=dark" />
 </a>
-<a href="https://github.com/saimasanjidashila/SaimaSanjidaShila_Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project3&theme=dark" />
+<a href="https://github.com/saimasanjidashila/SaimaSanjidaShila_Website.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Project3&theme=dark" />
 </a>
 
 <!--
