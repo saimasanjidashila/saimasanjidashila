@@ -1,5 +1,5 @@
 ## Hi there 👋
-**I'm Saima Sanjida Shila, a passionate developer working on cutting-edge projects in Weather Forecasting and Deep Learning. I thrive on learning new technologies and solving real-world problems with AI and ML. 🌟**
+**Aspiring Software Engineer with expertise in Machine Learning and Software Development. Skilled in building scalable web applications, data analysis to generate trends and insights, solving complex challenges, and managing cross-functional projects. Passionate about creating user-friendly applications and delivering impactful solutions.🌟**
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Weather Forecasting on real-time Predictions Using Deep Learning Models
-- 🌱 I’m currently learning AI, ML.
-- 📫 How to reach me: sshila1@lsu.edu
+- 🌱 I’m currently learning LLM, AI, ML.
+- 📫 How to reach me: sshila1@lsu.edu | saimasanjidashila@gmail.com
 - ⚡ Fun fact: I like hiking and going for long walks.
 -->
 
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🧠 **HCI, Computer Vision, Deep Learning frameworks.**
 - 🌱 **Always eager to learn new technologies.**
 
----
 ### 💻 Technical Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
