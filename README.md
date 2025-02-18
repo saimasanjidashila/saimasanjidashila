@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 
 ### 📂 Highlighted Repo's:
-<a href="[https://github.com/saimasanjidashila/Visualization-of-Saharan-Dust-on-Forecasting-Sea-Surface-Temperature-using-Deep-Learning]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Visualization-of-Saharan-Dust-on-Forecasting-Sea-Surface-Temperature-using-Deep-Learning&theme=dark" />
+<a href="[https://github.com/saimasanjidashila/Visualization-of-Saharan-Dust-on-Forecasting-Sea-Surface-Temperature-using-Deep-Learning]"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/ username=saimasanjidashila&repo=Visualization-of-Saharan-Dust-on-Forecasting-Sea-Surface-Temperature-using-Deep-Learning&theme=dark" />
 </a>
+
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=QSum-using-Llama&theme=dark" />
 </a>
-<a href="https://github.com/saimasanjidashila/Food-Delivery-React-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Food-Delivery-React-Project&theme=dark" />
+<a href="https://github.com/saimasanjidashila/Time-Series-Forecast-of-Sea-Surface-Temperature-using-Deep-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Time-Series-Forecast-of-Sea-Surface-Temperature-using-Deep-Learning&theme=dark" />
 </a>
 <a href="https://github.com/saimasanjidashila/Airline-Database-Management-System.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=Airline-Database-Management-System&theme=dark" />
