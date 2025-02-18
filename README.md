@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 
 ### 📂 Highlighted Repo's:
-
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saimasanjidashila&repo=QSum-using-Llama&theme=dark" />
 </a>
