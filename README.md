@@ -5,13 +5,13 @@
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.
 - 🌱 I’m currently learning LLM, AI, ML.
 - Always open to new perspectives and Continuous Learning.
 - 📫 How to reach me: sshila1@lsu.edu | saimasanjidashila@gmail.com
 - ⚡ Fun fact: I like hiking and going for long walks.
--->
+
 
 ### 📬 How to Reach Me
 - 📧 Email: [sshila1@lsu.edu](mailto:sshila1@lsu.edu)
