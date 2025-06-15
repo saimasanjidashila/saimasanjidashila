@@ -1,25 +1,20 @@
 ## Hi there 👋
 Aspiring Software Engineer with expertise in Software Development (.NET and ReactJS) and Machine Learning. Skilled in building scalable web applications, data analysis to generate trends and insights, solving complex challenges, and managing cross-functional projects. Passionate about creating user-friendly applications and delivering impactful solutions.🌟
 
-<!--
-**saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.
-- 🌱 I’m currently learning LLM, AI, ML.
-- 🌐 Always open to new perspectives and Continuous Learning.
-
+🎓 Master of Science in Computer Science at **Louisiana State University**  
+💻 Passionate about building intelligent systems, web applications, and solving real-world problems using AI and software engineering.  
+🌟 Always open to new perspectives and continuous learning.
 
 ### 📬 How to Reach Me
 - 📧 Email: [saimasanjidashila@gmail.com](mailto:sshila1@lsu.edu)
 - 💼 LinkedIn: [Saima Sanjida Shila](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/) 
 
-### 🌱 What I'm Learning
+### 🌱 What I'm Learning & working
+- 🔭 I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.
 - 🌐 Advanced AI and ML techniques.
 - 🧠 HCI, Machine Learning, Computer Vision, Deep Learning frameworks.
-- 🌱 Always eager to learn new technologies.
   
 ### 💻 Technical Skills:
 
