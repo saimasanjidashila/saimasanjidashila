@@ -1,13 +1,14 @@
 ## Hi there 👋
-**Aspiring Software Engineer with expertise in Machine Learning and Software Development. Skilled in building scalable web applications, data analysis to generate trends and insights, solving complex challenges, and managing cross-functional projects. Passionate about creating user-friendly applications and delivering impactful solutions.🌟**
+**Aspiring Software Engineer with expertise in Software Development (.NET and ReactJS) and Machine Learning. Skilled in building scalable web applications, data analysis to generate trends and insights, solving complex challenges, and managing cross-functional projects. Passionate about creating user-friendly applications and delivering impactful solutions.🌟**
 
 <!--
 **saimasanjidashila/saimasanjidashila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Weather Forecasting on real-time Predictions Using Deep Learning Models
+- 🔭 I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.
 - 🌱 I’m currently learning LLM, AI, ML.
+- Always open to new perspectives and Continuous Learning.
 - 📫 How to reach me: sshila1@lsu.edu | saimasanjidashila@gmail.com
 - ⚡ Fun fact: I like hiking and going for long walks.
 -->
@@ -23,6 +24,8 @@ Here are some ideas to get you started:
 
 ### 💻 Technical Skills:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
