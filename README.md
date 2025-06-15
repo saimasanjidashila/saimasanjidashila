@@ -3,7 +3,7 @@ Aspiring Software Engineer with expertise in Software Development (.NET and Reac
 
 ## 👩‍💻 About Me
 
-🎓 Master of Science in Computer Science at **Louisiana State University**  
+🎓 Master of Science in Computer Science at **Louisiana State University**.  
 💻 Passionate about building intelligent systems, web applications, and solving real-world problems using AI and software engineering.  
 🌟 Always open to new perspectives and continuous learning.
 
