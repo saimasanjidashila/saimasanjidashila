@@ -6,37 +6,46 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.
-- 🌱 I’m currently learning LLM, AI, ML.
-- Always open to new perspectives and Continuous Learning.
-- 📫 How to reach me: sshila1@lsu.edu | saimasanjidashila@gmail.com
-- ⚡ Fun fact: I like hiking and going for long walks.
+
+- 🔭 **I’m currently working on NSF funded project on real-time Weather Forecasting Using Deep Learning Models.**
+- 🌱 **I’m currently learning LLM, AI, ML.**
+- 🌐 **Always open to new perspectives and Continuous Learning.**
 
 
 ### 📬 How to Reach Me
-- 📧 Email: [sshila1@lsu.edu](mailto:sshila1@lsu.edu)
+- 📧 Email: [saimasanjidashila@gmail.com](mailto:sshila1@lsu.edu)
 - 💼 LinkedIn: [Saima Sanjida Shila](https://www.linkedin.com/in/saima-sanjida-shila-5a4373236/) 
 
 ### 🌱 What I'm Learning
 - 🌐 **Advanced AI and ML techniques.**
 - 🧠 **HCI, Machine Learning, Computer Vision, Deep Learning frameworks.**
 - 🌱 **Always eager to learn new technologies.**
-
 ### 💻 Technical Skills:
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### 🖥️ Programming & Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 📊 Data & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+#### 🧰 Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 📂 Highlighted Repo's:
 <a href="https://github.com/saimasanjidashila/QSum-using-Llama">
